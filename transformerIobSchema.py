@@ -12,6 +12,7 @@ import pandas as pd
 from pymongo import MongoClient
 import dns
 
+
 #Variaveis para contar e armazenar as sentença
 sentence_number = 0
 dictTokenALL = []
